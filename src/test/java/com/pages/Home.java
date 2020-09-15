@@ -152,6 +152,8 @@ public class Home {
 		
 		System.out.println();
 		System.out.println("Ravi");
+		System.out.println("ravi");
+		System.out.println("r");
 	}
 	
 }
